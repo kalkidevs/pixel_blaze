@@ -1,16 +1,42 @@
-# pixelgame
+# 🔥 Pixel Blaze — A Flutter Pixel Art Adventure
 
-flutter and flame
+![Flutter](https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-3.x-blue?logo=dart&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green)
 
-## Getting Started
+**Pixel Blaze** is a visually captivating pixel art platformer built with **Flutter**, where you navigate through fiery levels filled with **dynamic flames** and **intricately designed packages**.  
+Crafted with **tile-based layouts** and powered by the **BLoC pattern** for smooth, reactive gameplay.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🎮 Gameplay Preview
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+| ![Gameplay 1](s1.png) | ![Gameplay 2](s2.png) |
+|-----------------------|-----------------------|
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## ✨ Features
+
+- 🕹 **Tile-based Level Design** — modular, reusable, and easy to expand
+- 🔥 **Dynamic Flame Animations** — adds intensity to the game atmosphere
+- 📦 **Interactive Packages** — collectible and interactive objects
+- ⚡ **BLoC State Management** — smooth performance and predictable logic
+- 🎨 **Pixel Art Assets** — retro charm with modern controls
+
+---
+
+## 📦 Installation & Run
+
+```bash
+# Clone the repository
+git clone https://github.com/kalkidevs/pixel_blaze.git
+
+# Navigate to the project
+cd pixel_blaze
+
+# Install dependencies
+flutter pub get
+
+# Run the game
+flutter run
