@@ -11,7 +11,7 @@ Crafted with **tile-based layouts** and powered by the **BLoC pattern** for smoo
 
 ## 🎮 Gameplay Preview
 
-| ![Gameplay 1](s1.png) | ![Gameplay 2](s2.png) |
+| ![Gameplay 1](assets/screenshots/s1.png) | ![Gameplay 2](assets/screenshots/s2.png) |
 |-----------------------|-----------------------|
 
 ---
